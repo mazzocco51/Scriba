@@ -1,0 +1,24 @@
+# Termini di questo corso. Adattare il glossario per le altre materie.
+PRAM
+SPMD
+SIMD
+MIMD
+CREW
+EREW
+CRCW
+Amdahl
+Gustafson
+CUDA
+OpenMP
+MPI
+warp
+thread block
+shared memory
+coalesced memory access
+prefix sum
+reduction
+Thrust
+CUB
+CSR
+SpMV
+roofline
